@@ -16,21 +16,4 @@ insert:
 
 4) Run ./demo
 
-///
-
-Intelligence de SoccerBot réalisé par Louis OUTIN et Marwan LAKRADI
-
-1) Placer le dossier "lakradiOutinTeam/" dans le dossier "teams/" de SoccerBot.
-
-2) Compilé si nécessaire avec la commande : 
-javac lakradiOutinTeam/*.java lakradiOutinTeam/behaviour/*.java 
-
-3) Configurer le fichier robocup.dsc avec les pour chaque ligne de chaque robot:
-	Après : 
-		robot EDU.gatech.cc.is.abstractrobot.SocSmallSim
-	Placer : 
-		lakradiOutinTeam.TeamLakradiOutin
-
-4) Lancer ./demo
-
-Remarque: la JavaDoc du projet est disponible dans lakradiOutinTeam/JavaDoc, et le rapport est dans le même dossier que ce README.
+Note: Check Rapport.pdf for more information on the implemented multi-agent strategy (in French)
